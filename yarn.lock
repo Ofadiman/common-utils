@@ -673,10 +673,10 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
-"@ofadiman/eslint-config-base@0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@ofadiman/eslint-config-base/-/eslint-config-base-0.1.8.tgz#17a3d6d355238d98d4607bb04ec97d71919bdea6"
-  integrity sha512-otZ0Xy7K9+QpY/v2H7Pj3BSrlQgy+vxstcOFGvdsDen4ONFCl8oVTXNFoasK1CKL1XYR910KTEoHcpBgDmdo2Q==
+"@ofadiman/eslint-config-base@^0.1.8":
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/@ofadiman/eslint-config-base/-/eslint-config-base-0.1.9.tgz#de95ba49b7ef2e2c596b469a3bb36063193200a7"
+  integrity sha512-cpJnNNyiaK8uQYH/fZvU9UP+4kKY6jbMtWPfeug9i/zR0jWvymrdegcbSI65d/lXzygmaIIlfHqai+OZOeDPWQ==
 
 "@prettier/plugin-xml@^0.13.1":
   version "0.13.1"

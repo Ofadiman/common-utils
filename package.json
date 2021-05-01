@@ -28,7 +28,7 @@
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
-    "@ofadiman/eslint-config-base": "0.1.8",
+    "@ofadiman/eslint-config-base": "^0.1.8",
     "@prettier/plugin-xml": "^0.13.1",
     "@types/jest": "^26.0.22",
     "@types/node": "^14.14.41",
@@ -79,5 +79,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "Ofadiman/common-utils"
+  "repository": "Ofadiman/common-utils",
+  "sideEffects": false
 }
