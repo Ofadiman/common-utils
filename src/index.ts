@@ -1,4 +1,5 @@
 /* FUNCTION */
+export { handleConsoleLog } from './functions/handleConsoleLog/handleConsoleLog'
 export { getArray } from './functions/getArray/getArray'
 export { sequencedForEach } from './functions/sequencedForEach/sequencedForEach'
 export { isFunction } from './functions/isFunction/isFunction'
