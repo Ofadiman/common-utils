@@ -1,4 +1,5 @@
 /* FUNCTION */
+export { wait } from './functions/wait/wait'
 export { handleConsoleLog } from './functions/handleConsoleLog/handleConsoleLog'
 export { getArray } from './functions/getArray/getArray'
 export { sequencedForEach } from './functions/sequencedForEach/sequencedForEach'
